@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahtisham02.github.io/reference-r5xwt7/sitemap.xml
